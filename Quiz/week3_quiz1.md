@@ -7,6 +7,7 @@
 - NameNode memory usage increases significantly
 - Network load decreases
 - Number of map tasks need to process the same amount of data will be larger.
+- I/O rate will be faster
 
 
 
